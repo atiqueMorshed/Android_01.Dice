@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
                 leftDice.setImageResource(diceArray[number1]);
                 rightDice.setImageResource(diceArray[number2]);
-                
+
                 Log.d("Dice", "The Random Number is: "+ number1);
 
             }
